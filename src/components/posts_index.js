@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default () => {
-    return <div>iCORE Login</div>
+    return <div>List of Blog Posts</div>
 };
